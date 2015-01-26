@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1221ad4a-955a-4153-afba-f67f45434484" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/css/images/animated-overlay.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/images/baloon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/images/bookings-16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/images/bookings-32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/images/calendar-16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/images/calendar-32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/images/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/images/csv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-ca.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-cs_CZ.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-da_DK.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-de_DE.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-en_GB.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-es_ES.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-et.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-fa_IR.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-fi.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-fr_FR.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-he_IL.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-hu_HU.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-it_IT.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-ja.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-nb_NO.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-nl_NL.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-pl_PL.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-pt_BR.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-pt_PT.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-ru_RU.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-sk_SK.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-sv_SE.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-tr_TR.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-zh_CN.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-zh_TW.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/fonts/em-dashicons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/fonts/em-dashicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/fonts/em-dashicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/images/event-caps-source.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/images/event-caps.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/images/event-perms-source.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/images/globe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/css/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshot-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshot-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshot-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshot-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshot-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshot-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/images/search-geo-off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/images/search-geo-on.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/images/search-geo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/images/search-loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/images/search-mag-ico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/images/search-mag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/images/settings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/css/images/ui-bg_diagonals-thick_18_b81900_40x40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/css/images/ui-bg_diagonals-thick_20_666666_40x40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/css/images/ui-bg_flat_10_000000_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/css/images/ui-bg_glass_100_f6f6f6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/css/images/ui-bg_glass_100_fdf5ce_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/css/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/css/images/ui-bg_gloss-wave_35_f6a828_500x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/css/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/css/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/css/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/css/images/ui-icons_228ef1_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/css/images/ui-icons_ef8c08_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/css/images/ui-icons_ffd27a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/css/images/ui-icons_ffffff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/admin-settings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/placeholders/attendees.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/placeholders/attendeeslist.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/placeholders/attendeespendinglist.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/buddypress/screens/attending.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/forms/event/attributes-public.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/forms/location/attributes-public.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/forms/event/attributes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/forms/location/attributes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/sample-placeholders/booking-email.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/forms/bookingform/booking-fields.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/forms/event/booking-stats.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/placeholders/bookingbutton.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/placeholders/bookingform.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/bookings-event-printable.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/forms/event/bookings-ticket-form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/forms/event/bookings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/bookingsform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/emails/bookingsummary.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/emails/bookingtickets.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/buddypress/bp-em-activity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/buddypress/bp-em-core.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/buddypress/bp-em-groups.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/buddypress/bp-em-notifications.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/buddypress/bp-em-templatetags.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/calendar-day.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/calendar-full.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/calendar-small.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/categories-admin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/categories-list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/forms/event/categories-public.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/placeholders/categories.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/search/categories.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/category-single.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/phpmailer/class.phpmailer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/phpmailer/class.smtp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-ca.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-cs_CZ.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-da_DK.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-de_DE.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-en_GB.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-es_ES.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-et.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-fa_IR.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-fi.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-fr_FR.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-he_IL.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-hu_HU.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-it_IT.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-ja.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-nb_NO.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-nl_NL.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-pl_PL.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-pt_BR.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-pt_PT.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-ru_RU.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-sk_SK.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-sv_SE.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-tr_TR.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-zh_CN.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/dbem-zh_TW.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/em-actions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/fonts/em-admin-icon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/em-admin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/em-bbpress.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-booking.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-bookings-table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/em-bookings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/em-bookings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-bookings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-calendar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/widgets/em-calendar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/bookings/em-cancelled.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-categories-taxonomy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-categories.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-category-taxonomy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-category.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/bookings/em-confirmed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/em-debug.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/em-docs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/em-emails.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-event-post-admin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-event-post.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-event-posts-admin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-event.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/em-events.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/bookings/em-events.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-events.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/widgets/em-events.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/em-functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/em-help.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/em-ical.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/em-install.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-location-post-admin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-location-post.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-location-posts-admin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-location.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/em-locations-search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-locations.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/widgets/em-locations.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-mailer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/em-ml.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/em-ms-locations.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/em-ms-options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-notices.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-object.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/em-options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/bookings/em-pending.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-people.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-permalinks.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/bookings/em-person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/em-posts.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/em-pro-compatibility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/bookings/em-rejected.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/em-rss.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/em-shortcode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-tag-taxonomy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-tag.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-tags.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/em-template-tags.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-ticket-booking.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-ticket.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-tickets-bookings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/em-tickets.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/em-upgrade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/em-wpfc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/forms/event-editor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/sample-placeholders/event-list-default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/sample-placeholders/event-single-default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/sample-placeholders/event-single.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/event-single.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/placeholders/eventcategoriesimages.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/events-calendar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/events-list-grouped.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/events-list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/events-manager-source.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/events-manager.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/events-manager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/events-manager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/langs/events-manager.pot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/events-search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/tables/events.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/css/events_manager.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/css/events_manager_admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/placeholders/eventtags.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/forms/event/featured-image-public.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/forms/location/featured-image-public.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/search/geo-units.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/search/geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/search/geo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/buddypress/screens/group-events.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/buddypress/group-events.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/forms/event/group.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/ical.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery-ui-i18n.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-bs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-en-GB.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-fo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-fr-CH.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-hy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-kz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-sr-SR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-ta.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-zh-HK.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/js/i18n/jquery.ui.datepicker-zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/search/location-countries.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/forms/location-editor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/search/location-regions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/sample-placeholders/location-single-default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/location-single.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/search/location-states.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/search/location-towns.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/forms/event/location.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/search/location.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/placeholders/locationmap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/locations-list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/locations-search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/tables/locations.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/forms/bookingform/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/forms/map-container.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/map-global.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/buddypress/screens/my-bookings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/buddypress/my-bookings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/my-bookings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/buddypress/screens/my-events.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/buddypress/my-events.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/buddypress/screens/my-group-events.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/buddypress/my-group-events.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/buddypress/screens/my-locations.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/buddypress/my-locations.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/phpmailer/language/phpmailer.lang-ar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/phpmailer/language/phpmailer.lang-br.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/phpmailer/language/phpmailer.lang-ca.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/phpmailer/language/phpmailer.lang-ch.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/phpmailer/language/phpmailer.lang-cz.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/phpmailer/language/phpmailer.lang-de.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/phpmailer/language/phpmailer.lang-dk.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/phpmailer/language/phpmailer.lang-en.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/phpmailer/language/phpmailer.lang-es.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/phpmailer/language/phpmailer.lang-et.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/phpmailer/language/phpmailer.lang-fi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/phpmailer/language/phpmailer.lang-fo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/phpmailer/language/phpmailer.lang-fr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/phpmailer/language/phpmailer.lang-hu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/phpmailer/language/phpmailer.lang-it.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/phpmailer/language/phpmailer.lang-ja.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/phpmailer/language/phpmailer.lang-nl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/phpmailer/language/phpmailer.lang-no.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/phpmailer/language/phpmailer.lang-pl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/phpmailer/language/phpmailer.lang-ro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/phpmailer/language/phpmailer.lang-ru.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/phpmailer/language/phpmailer.lang-se.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/phpmailer/language/phpmailer.lang-tr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/phpmailer/language/phpmailer.lang-zh.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/phpmailer/language/phpmailer.lang-zh_cn.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/buddypress/screens/profile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/buddypress/profile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/buddypress/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/emails/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/formats/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/forms/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/placeholders/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/tables/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/forms/event/recurring-when.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/rss.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/search/scope.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/search/search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/tag-single.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/templates/tags-list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/forms/ticket-form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/forms/bookingform/ticket-single.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/forms/tickets-form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/forms/bookingform/tickets-list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/css/ui-lightness.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/forms/event/when-with-recurring.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/forms/event/when.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/forms/location/where.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/wpfc-admin.php" />
+    </list>
+    <ignored path="events-manager.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="events-manager" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="em-bookings.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/em-bookings.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3319672" vertical-offset="2253" max-vertical-offset="4020">
+              <caret line="161" column="116" selection-start-line="161" selection-start-column="116" selection-end-line="161" selection-end-column="116" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bookingform.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/placeholders/bookingform.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="916" max-vertical-offset="1695">
+              <caret line="87" column="133" selection-start-line="87" selection-start-column="133" selection-end-line="87" selection-end-column="133" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="events_manager_admin.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/css/events_manager_admin.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="699" max-vertical-offset="2310">
+              <caret line="69" column="70" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="events_manager.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/css/events_manager.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1299" max-vertical-offset="3510">
+              <caret line="106" column="25" selection-start-line="106" selection-start-column="25" selection-end-line="106" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ticket-single.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/forms/bookingform/ticket-single.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="76" max-vertical-offset="855">
+              <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bookingsform.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/js/bookingsform.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="189" max-vertical-offset="1065">
+              <caret line="42" column="47" selection-start-line="42" selection-start-column="47" selection-end-line="42" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/includes/css/events_manager_admin.css" />
+        <option value="$PROJECT_DIR$/includes/js/bookingsform.js" />
+        <option value="$PROJECT_DIR$/includes/css/events_manager.css" />
+        <option value="$PROJECT_DIR$/templates/placeholders/bookingform.php" />
+        <option value="$PROJECT_DIR$/em-bookings.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="events-manager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="events-manager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="events-manager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1221ad4a-955a-4153-afba-f67f45434484" name="Default" comment="" />
+      <created>1422238899681</created>
+      <option name="number" value="Default" />
+      <updated>1422238899681</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32961586" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/includes/css/events_manager_admin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="699" max-vertical-offset="2310">
+          <caret line="69" column="70" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/js/bookingsform.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="189" max-vertical-offset="1065">
+          <caret line="42" column="47" selection-start-line="42" selection-start-column="47" selection-end-line="42" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/css/events_manager.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1299" max-vertical-offset="3510">
+          <caret line="106" column="25" selection-start-line="106" selection-start-column="25" selection-end-line="106" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/forms/bookingform/ticket-single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="76" max-vertical-offset="855">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/placeholders/bookingform.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="916" max-vertical-offset="1695">
+          <caret line="87" column="133" selection-start-line="87" selection-start-column="133" selection-end-line="87" selection-end-column="133" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/em-bookings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3319672" vertical-offset="2253" max-vertical-offset="4020">
+          <caret line="161" column="116" selection-start-line="161" selection-start-column="116" selection-end-line="161" selection-end-column="116" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
