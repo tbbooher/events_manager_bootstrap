@@ -644,6 +644,11 @@ class EM_Booking extends EM_Object{
 	    $user_data = array();
 	    $registration = true;
 	    if( empty($this->booking_meta['registration']) ) $this->booking_meta['registration'] = array();
+	    // phone is mandatory
+	    if ( $_REQUEST['dbem_phone'] == '' ) {
+               $registration = false;
+               $this->add_error(__( '<strong>ERROR</strong>: Please provide your phone.', 'dbem') );
+	    }	    
 	    // Check the e-mail address
 	    if ( $_REQUEST['user_email'] == '' ) {
 	    	$registration = false;
