@@ -12,12 +12,10 @@
 		<label for='user_name'><?php _e('Name','dbem') ?></label>
 		<input type="text" name="user_name" id="user_name" class="form-control" placeholder="Your full name" value="<?php if(!empty($_REQUEST['user_name'])) echo esc_attr($_REQUEST['user_name']); ?>" />
 	</div>
-<!--
-	<p>
+	<div class="form-group">
 		<label for='dbem_phone'><?php _e('Phone','dbem') ?></label>
-		<input type="text" name="dbem_phone" id="dbem_phone" class="input" value="<?php if(!empty($_REQUEST['dbem_phone'])) echo esc_attr($_REQUEST['dbem_phone']); ?>" />
-	</p>
--->
+		<input type="text" name="dbem_phone" id="dbem_phone" class="form-control" placeholder="703-123-4567" value="<?php if(!empty($_REQUEST['dbem_phone'])) echo esc_attr($_REQUEST['dbem_phone']); ?>" />
+	</div>
 	<div class="form-group">
 		<label for='user_email'><?php _e('E-mail','dbem') ?></label> 
 		<input type="text" name="user_email" id="user_email" class="form-control" placeholder="you@email.com" value="<?php if(!empty($_REQUEST['user_email'])) echo esc_attr($_REQUEST['user_email']); ?>"  />
